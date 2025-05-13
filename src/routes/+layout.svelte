@@ -214,6 +214,7 @@
                 <div
                     class="bg-shades-white rounded pt-4 pr-2 pb-4 pl-2 flex flex-col gap-2 items-center justify-center shrink-0 w-[140px] relative"
                 >
+                    <!-- svelte-ignore a11y_missing_attribute -->
                     <img
                         class="shrink-0 w-[36.68px] h-10 relative overflow-visible"
                         src={group0}
